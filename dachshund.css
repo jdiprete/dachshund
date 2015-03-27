@@ -1,0 +1,21 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:bc42a3e39fb545d67341e8b574bb8610:b5e9ef322e84f0b5a4a84838630d9c03:abc0a4200e6b8bb466217fd63fa56726$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(dachshund.png);}
+
+.d-blink-1 {width:450px; height:573px; background-position: -2px -2px}
+.d-blink-2 {width:450px; height:573px; background-position: -2px -577px}
+.d-nocollar {width:450px; height:573px; background-position: -454px -2px}
+.d-normal {width:450px; height:573px; background-position: -454px -577px}
+.d-wag-1 {width:450px; height:573px; background-position: -906px -2px}
+.d-wag-2 {width:450px; height:573px; background-position: -906px -577px}
+.d-wag-3 {width:450px; height:573px; background-position: -1358px -2px}
